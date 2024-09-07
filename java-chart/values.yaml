@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: devopshint/java-1.0
+  repository: 200901485389.dkr.ecr.us-east-1.amazonaws.com/sreelekha-focus-ecr
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
